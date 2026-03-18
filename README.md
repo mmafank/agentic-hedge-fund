@@ -1,4 +1,4 @@
-# Agentic Hedge Fund
+# Agentic Hedge Fund In a Box
 
 **A 34-agent autonomous trading platform with quantitative analysis and risk management.**
 
