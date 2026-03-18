@@ -2,7 +2,7 @@
 
 **A 34-agent autonomous trading platform built by a non-engineer using Claude Code.**
 
-311K lines of production code across 6 repositories, 3 servers, and 16 deployed applications. Built in under 90 days with zero prior programming background, using Claude Code as a collaborative coding medium.
+311K lines of production code across 6 repositories, 3 servers, and 16 deployed applications. Built in under 90 days using Claude Code as a collaborative coding medium.
 
 This repository documents the architecture, governance framework, engineering process, and lessons learned. Strategy logic, credentials, and financial data remain private.
 
@@ -10,9 +10,9 @@ This repository documents the architecture, governance framework, engineering pr
 
 ## Why This Exists
 
-In December 2025 I started learning Python. I had no CS degree, no bootcamp, no engineering experience. I was a non-technical professional who found AI-assisted coding genuinely interesting.
+In December 2025 I started building with Claude Code after finding it substantially more capable than alternatives for production work.
 
-I tested Codex, Grok, and Gemini before settling on Claude Code (Anthropic) after finding it substantially superior for production work. Over the next 90 days, across 3,277 sessions and roughly 1,000 hours, I built what became a multi-market autonomous trading platform with 34 AI agents, quantitative risk management, and self-healing infrastructure.
+I tested Codex, Grok, and Gemini as well. Over the next 90 days, across 3,277 sessions and roughly 1,000 hours, I built a multi-market autonomous trading platform with 34 AI agents, quantitative risk management, and self-healing infrastructure.
 
 I share this not because the trading results matter (they are modest), but because the engineering process might be useful to others exploring what is possible with agentic coding tools.
 
@@ -359,7 +359,7 @@ bash scripts/install_hooks.sh
 
 ## About
 
-Built by a non-technical professional learning to become a software engineer. This project represents what is possible when someone with zero programming background commits serious time and effort to building with AI coding tools.
+This project represents what is possible when someone commits serious time and effort to building with AI coding tools.
 
 I am looking for my first engineering role. If this work interests you, I would welcome a conversation. Reach out via GitHub.
 
