@@ -1,6 +1,6 @@
 # Agentic Hedge Fund
 
-**A 34-agent autonomous trading platform built by a non-engineer using Claude Code.**
+**A 34-agent autonomous trading platform with quantitative analysis and risk management.**
 
 311K lines of production code across 6 repositories, 3 servers, and 16 deployed applications. Built in under 90 days using Claude Code as a collaborative coding medium.
 
@@ -361,7 +361,7 @@ bash scripts/install_hooks.sh
 
 This project represents what is possible when someone commits serious time and effort to building with AI coding tools.
 
-I am looking for my first engineering role. If this work interests you, I would welcome a conversation. Reach out via GitHub.
+If this work interests you, I would welcome a conversation. Reach out via GitHub.
 
 ---
 
